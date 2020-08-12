@@ -1,2 +1,2 @@
 # AI_LAB
-CS 235 : Artificial Intelligence Lab Assignments
+CS235 and CS360 : AI and ML Lab Assignments
