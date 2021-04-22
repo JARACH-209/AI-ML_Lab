@@ -10,3 +10,4 @@ Scratch implementaion of (Using numpy) of :
 6. K-Means Clustering
 7. Single Layer Pereceptron
 8. Multi-Layer Perceptron
+9. Self Organizing Feature Maps
