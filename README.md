@@ -1,4 +1,10 @@
 # AI_LAB
+>Disclaimer for Juniors or anyone other students: 
+Try to implement the assignments yourself because some of the codes might be highly customized to the problems statements.
+I was also like you when implementing them, so, I did not care about making them reproducible, portable or generic.
+Also, a piece of advice, implementing them on your own will give you a huge satisfaction and deeper understanding.
+PEACE ! ;)
+
 CS235 and CS360 : AI and ML Lab Assignments
 Datasets used : Wine, Iris, Insurance, Boston, Breast Cancer, UCI Heart Disease.
 Scratch implementaion of (Using numpy) of :
